@@ -21,6 +21,6 @@
    
    The highest-paying jobs were Anesthesiologists (for 2018-2020) and Cardiologists (for 2021), which were all in the medical sector. Concurrently, the lowest paying jobs were Combined Food Preparation and Serving Workers (Including Fast Food) (for 2018), Shampooers (for 2019 and 2021), and Cooks (Fast Food) (for 2020). These jobs were in the minimum wage, customer service sector.
   
-  [View my visualization](https://app.powerbi.com/groups/me/dashboards/a194e4c2-7d92-4d38-89ae-7248e5327c8b?redirectedFromSignup=1)
+  [View my visualization](https://app.powerbi.com/groups/me/dashboards/a194e4c2-7d92-4d38-89ae-7248e5327c8b?redirectedFromSignup=1) or [PDF version](https://github.com/dari-ah/Shifting-in-Employment/tree/main/PowerBI%20Viz)
   
   From my analysis, jobs that were the most resistant to changes were jobs in healthcare services. 
